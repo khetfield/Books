@@ -1,0 +1,47 @@
+html{
+    height: 100vh;
+}
+
+h1{text-align: center;
+    font-weight: 700;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(220, 20, 173);
+}   
+
+h3{text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(13, 126, 19);
+}
+body{
+    background-image: url('https://cushing-malloy.com/wp-content/uploads/2019/09/17-Ways-To-Find-Good-Books-To-Read.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100vh;
+    margin: 10px;
+}
+img{height: 200px;
+}
+#azkaban{width: 142px;
+}
+.bookbox{
+        box-sizing: border-box;
+        margin: 10px;
+        width: 142px;
+        text-align: center;
+        background-color: aqua;
+}
+#main{
+    position: relative;
+}
+
+
+#foot{
+    text-align: center;
+    font-weight: 900;
+    color: rgb(244, 6, 6);
+    margin: 50px;;
+}
+#survey{float: right;}
+
+#buttong{margin-bottom: 50px;}
